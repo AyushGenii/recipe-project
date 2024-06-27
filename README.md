@@ -1,6 +1,6 @@
-### REMAGIC
+### RECIPE MAGIC
 
-**REMAGIC** is a web application designed to simplify meal planning by allowing users to discover and save recipes based on selected ingredients. The app provides a rich user experience by presenting recipes with detailed instructions and images. Users can also save their favorites, and even contribute their own recipes. REMAGIC is your ultimate kitchen companion.
+**RECIPE MAGIC** is a web application designed to simplify meal planning by allowing users to discover and save recipes based on selected ingredients. The app provides a rich user experience by presenting recipes with detailed instructions and images. Users can also save their favorites, and even contribute their own recipes. RECIPE MAGIC is your ultimate kitchen companion.
 
 ---
 
@@ -31,18 +31,18 @@
 
 ## Setup Guide
 
-Follow these steps to set up and run the REMAGIC web application on your local machine.
+Follow these steps to set up and run the RECIPE MAGIC web application on your local machine.
 
 ### Installation
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/AyushGenii/recipe-project.git
-   cd REMAGIC
+   cd RECIPE MAGIC
    ```
 
 2. **Access the Application**
-   Open your browser and navigate to `http://localhost:3000` to start using REMAGIC.
+   Open your browser and navigate to `http://localhost:3000` to start using RECIPE MAGIC.
 
 ---
 
@@ -87,7 +87,7 @@ Follow these steps to set up and run the REMAGIC web application on your local m
 
 ## Contributing
 
-We welcome contributions to improve REMAGIC. Here’s how you can get started:
+We welcome contributions to improve RECIPE MAGIC. Here’s how you can get started:
 
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** locally.
@@ -118,11 +118,11 @@ This project is licensed under the MIT License. See the [MIT LICENSE](https://ch
 
 ## Contact
 
-For any queries or feedback, feel free to reach us **Ayush Kumar**.
+For any queries or feedback, feel free to reach us at [Gmail](ayushgenii1055@gmail.com).
 
 ---
 
-Enjoy using REMAGIC! 🍽️
+Enjoy using RECIPE MAGIC! 🍽️
 
 ---
 
@@ -136,6 +136,6 @@ Enjoy using REMAGIC! 🍽️
 
 ---
 
-Explore all features of REMAGIC. Happy cooking! 🥘
+Explore all features of RECIPE MAGIC. Happy cooking! 🥘
 
 ---
