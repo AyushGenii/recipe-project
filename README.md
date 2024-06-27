@@ -71,9 +71,17 @@ Follow these steps to set up and run the REMAGIC web application on your local m
 ![Recipe Card](/Demo/recipecardpage.png)
 *Click on Card for Detailed view of a recipe including ingredients and cooking steps.*
 
+### Recipe Details
+![Detail View](/Demo/recipedetail.png)
+*Generating dynamic url for each recipe to render detail view.*
+
 ### Auth Page
-![Auth Page](./screenshots/profile.png)
+![Auth Page](/Demo/authpage.png)
 *User auth page for sign-in and sign-up.*
+
+### Work Place
+![VS CODE](/Demo/vscode.png)
+*Just a Laptop and VSCODE*
 
 ---
 
